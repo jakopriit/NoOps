@@ -10,11 +10,11 @@ bot - bot_byk_build.sh
 
 trainingbot - trainbot_byk_build.sh
 
-config.txt
+config.sh
 
 # Before using scripts user has to:
-# 1) edit config.txt to add correct values
-# 2) in scripts edit "config=" line to show, where edited config.txt is located.
+# 1) edit config.sh to add correct values
+# 2) in scripts edit "config=" line to show, where edited config.sh is located.
 
 # For installing "Data-Anonymizer":
 anonym.sh
